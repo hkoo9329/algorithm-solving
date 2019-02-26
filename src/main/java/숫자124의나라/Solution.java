@@ -1,5 +1,7 @@
 package 숫자124의나라;
 
+
+
 public class Solution {
     public String solution(int n) {
         String answer = "";
@@ -12,7 +14,9 @@ public class Solution {
                 n -= 1;
             }
             answer = arr[a] + answer;
+
         }
+
         return answer;
     }
 }
