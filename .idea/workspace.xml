@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/프린터/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/프린터/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +14,7 @@
     <session id="-1028115059">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -109,7 +105,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/프린터/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="437">
               <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#194#195#0" expanded="true" />
@@ -168,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -243,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;WelcomeScreen.Settings" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551358057309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551358148112" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../blakcJackCode" />
@@ -381,9 +377,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_solutionTest - 2019.02.28 at 18h 29m 47s.xml">
-      <configuration name="SolutionTest.solutionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionTest_solutionTest - 2019.02.28 at 18h 30m 07s.xml">
       <configuration name="SolutionTest.solutionTest" configurationId="JUnit" />
     </history-entry>
@@ -411,10 +404,12 @@
     <history-entry file="SolutionTest_findMaxNumberTest - 2019.02.28 at 21h 47m 07s.xml">
       <configuration name="SolutionTest.findMaxNumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionTest_solutionTest - 2019.02.28 at 21h 47m 33s.xml">
+      <configuration name="SolutionTest.solutionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -429,7 +424,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32386363" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32386363" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -510,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/프린터/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="437">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#194#195#0" expanded="true" />
