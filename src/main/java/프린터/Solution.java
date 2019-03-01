@@ -3,55 +3,33 @@ package 프린터;
 import java.util.*;
 
 public class Solution {
-    class Documents {
-        private int location;
-        private int priority;
 
-        public Documents(int location, int priority) {
-            this.location = location;
-            this.priority = priority;
-        }
 
-    }
-    LinkedList<Documents> list;
-
-    public int solution(int[] priorities, int location) {
+    public int solution(int[] priorities, int location) throws IllegalAccessException {
         int answer = 0;
-        int max = 0;
-        list = new LinkedList<Documents>();
-
-        for (int i = 0; i < priorities.length; i++) {
-            Documents document = new Documents(i, priorities[i]);
-            list.add(document);
+        List<Integer> list = new ArrayList<Integer>();
+        for (int priority : priorities) {
+            list.add(priority);
         }
-        Documents temp;
-        int counter = 1;
-        while (!list.isEmpty()) {
-            max = findMaxNumber();
-            temp = list.poll();
-            if (max == temp.priority) {
-                if (location == temp.location) {
-                    answer = counter;
-                    return answer;
+        int counter=1;
+        while(!list.isEmpty()){
+            int temp = list.get(0);
+            if(list.stream().anyMatch(v->temp<v)){
+                list.add(list.remove(0));
+            }else {
+                if(location==0){
+                    return counter;
                 }
-
+                list.remove(0);
                 counter++;
-            } else {
-                list.addLast(temp);
             }
-
-        }
-        return answer;
-    }
-
-    private int findMaxNumber() {
-        int max = 0;
-        for (int i = 0; i < list.size(); i++) {
-            if (max < list.get(i).priority) {
-                max = list.get(i).priority;
+            if (location>0){
+                location--;
+            }else{
+                location = list.size()-1;
             }
         }
-
-        return max;
+        throw new IllegalAccessException();
     }
+
 }

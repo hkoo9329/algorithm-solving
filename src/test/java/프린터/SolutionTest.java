@@ -18,7 +18,7 @@ public class SolutionTest {
 
 
     @Test
-    public void solutionTest() {
+    public void solutionTest() throws IllegalAccessException {
         int answer =0;
         for(int i=0;i<priorities.length;i++) {
             answer = solution.solution(priorities[i], locations[i]);
