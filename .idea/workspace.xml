@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/카카오실패율/FailureRateSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,42 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/프린터/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/완주못한선수/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/타일링/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/카카오오픈채팅방/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/카카오무지의먹방라이브/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -63,13 +28,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/카카오실패율/FailureRateSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="285">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#498#505#0" expanded="true" />
+                <element signature="e#500#509#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="202" selection-start-line="202" selection-end-line="202" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="1" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,8 +136,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -157,14 +168,15 @@
         <option value="$PROJECT_DIR$/src/main/java/카카오오픈채팅방/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/카카오무지의먹방라이브/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/카카오실패율/FailureRateSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="986" />
-    <option name="y" value="31" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -203,7 +215,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="카카오실패율" type="462c0819:PsiDirectoryNode" />
+              <item name="다리를지나는트럭" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="다리를지나는트럭" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +250,7 @@
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;WelcomeScreen.Settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552295685852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552394495514" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -228,11 +261,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="다리를지나는트럭" />
       <recent name="카카오오픈채팅방" />
       <recent name="타일링" />
       <recent name="완주못한선수" />
       <recent name="프린터" />
-      <recent name="송수신탑" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -250,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FailureRateSolution">
+  <component name="RunManager" selected="JUnit.SolutionTest.solutionTestCase">
     <configuration name="FailureRateSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="카카오실패율.FailureRateSolution" />
       <module name="codingTest" />
@@ -277,29 +310,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="타일링.Solution" />
+    <configuration name="SolutionTest.TestCase (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="타일링.*" />
+          <option name="PATTERN" value="다리를지나는트럭.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.TestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="카카오오픈채팅방.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="카카오오픈채팅방" />
-      <option name="MAIN_CLASS_NAME" value="카카오오픈채팅방.SolutionTest" />
+      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
+      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
       <option name="METHOD_NAME" value="TestCase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -310,32 +330,48 @@
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="타일링.*" />
+          <option name="PATTERN" value="다리를지나는트럭.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="타일링" />
-      <option name="MAIN_CLASS_NAME" value="타일링.SolutionTest" />
+      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
+      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
       <option name="METHOD_NAME" value="solutionTestCase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="다리를지나는트럭.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
+      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.Solution" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.FailureRateSolution" />
+      <item itemvalue="JUnit.Solution.solution" />
+      <item itemvalue="JUnit.SolutionTest.TestCase (1)" />
       <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
-      <item itemvalue="JUnit.SolutionTest.TestCase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
+        <item itemvalue="JUnit.SolutionTest.TestCase (1)" />
+        <item itemvalue="JUnit.Solution.solution" />
         <item itemvalue="Application.FailureRateSolution" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="JUnit.SolutionTest.TestCase" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -355,62 +391,63 @@
       <workItem from="1552295776009" duration="54000" />
       <workItem from="1552295879905" duration="274000" />
       <workItem from="1552296197085" duration="449000" />
-      <workItem from="1552387433913" duration="996000" />
+      <workItem from="1552387433913" duration="7032000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 47m 56s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 19m 04s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 49m 26s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 22m 02s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 50m 14s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 22m 35s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 50m 25s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 23m 53s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 52m 05s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 30m 55s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.04 at 15h 53m 55s.xml">
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 32m 13s.xml">
       <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_TestCase - 2019.03.04 at 18h 47m 52s.xml">
-      <configuration name="SolutionTest.TestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 37m 17s.xml">
+      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_TestCase - 2019.03.04 at 18h 50m 11s.xml">
-      <configuration name="SolutionTest.TestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 37m 36s.xml">
+      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_TestCase - 2019.03.04 at 18h 51m 18s.xml">
-      <configuration name="SolutionTest.TestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 38m 13s.xml">
+      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_TestCase - 2019.03.04 at 18h 57m 42s.xml">
-      <configuration name="SolutionTest.TestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 41m 10s.xml">
+      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10003000" />
+    <option name="totallyTimeSpent" value="16039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="789" y="25" width="784" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2569061" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12483221" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2846924" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2822695" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3219858" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3219858" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -435,16 +472,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3398058" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.12483221" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.81403506" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2822695" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.31960228" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39885223" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3219858" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -460,6 +497,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Maven" order="8" />
       <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,6 +511,12 @@
           <line>43</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -595,10 +639,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/카카오실패율/FailureRateSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        <state relative-caret-position="285">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="1" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#505#0" expanded="true" />
+            <element signature="e#500#509#0" expanded="true" />
           </folding>
         </state>
       </provider>
