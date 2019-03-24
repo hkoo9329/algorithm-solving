@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/주식가격/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/원소정렬/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +18,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="212">
-                <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <first_editor>
+                <caret column="37" selection-start-column="37" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -28,19 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/송수신탑/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/프린터/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="627">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -48,22 +41,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/주식가격/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="266">
               <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
                 <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2869">
-              <caret line="202" selection-start-line="202" selection-end-line="202" />
             </state>
           </provider>
         </entry>
@@ -71,10 +55,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="446">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,19 +182,22 @@
         <option value="$PROJECT_DIR$/src/main/java/카카오오픈채팅방/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/카카오무지의먹방라이브/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/카카오실패율/FailureRateSolution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/주식가격/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/주식가격/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/주식가격/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/원소정렬/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="836" />
-    <option name="y" value="87" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -183,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +238,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="송수신탑" type="462c0819:PsiDirectoryNode" />
+              <item name="원소정렬" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -222,7 +246,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="주식가격" type="462c0819:PsiDirectoryNode" />
+              <item name="프린터" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -249,14 +273,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;WelcomeScreen.Settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552558281507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553394351168" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -267,11 +290,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="원소정렬" />
       <recent name="주식가격" />
       <recent name="다리를지나는트럭" />
       <recent name="카카오오픈채팅방" />
       <recent name="타일링" />
-      <recent name="완주못한선수" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -289,21 +312,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.testCase">
-    <configuration name="FailureRateSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="카카오실패율.FailureRateSolution" />
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="카카오실패율.*" />
+          <option name="PATTERN" value="원소정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="원소정렬" />
+      <option name="MAIN_CLASS_NAME" value="원소정렬.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.TestCase (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.Soull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -313,7 +338,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="다리를지나는트럭" />
       <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
-      <option name="METHOD_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="Soull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.iiss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="다리를지나는트럭.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
+      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
+      <option name="METHOD_NAME" value="iiss" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -351,36 +392,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="다리를지나는트럭.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
-      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.Solution" />
-      <option name="METHOD_NAME" value="solution" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.FailureRateSolution" />
-      <item itemvalue="JUnit.Solution.solution" />
-      <item itemvalue="JUnit.SolutionTest.TestCase (1)" />
       <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
       <item itemvalue="JUnit.SolutionTest.testCase" />
+      <item itemvalue="JUnit.SolutionTest.Soull" />
+      <item itemvalue="JUnit.SolutionTest.iiss" />
+      <item itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.testCase" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.iiss" />
+        <item itemvalue="JUnit.SolutionTest.Soull" />
         <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
-        <item itemvalue="JUnit.SolutionTest.TestCase (1)" />
-        <item itemvalue="JUnit.Solution.solution" />
-        <item itemvalue="Application.FailureRateSolution" />
+        <item itemvalue="JUnit.SolutionTest.testCase" />
       </list>
     </recent_temporary>
   </component>
@@ -401,44 +426,49 @@
       <workItem from="1552295879905" duration="274000" />
       <workItem from="1552296197085" duration="449000" />
       <workItem from="1552387433913" duration="8048000" />
-      <workItem from="1552555542867" duration="2726000" />
+      <workItem from="1552555542867" duration="3165000" />
+      <workItem from="1552559044054" duration="16000" />
+      <workItem from="1552629311838" duration="914000" />
+      <workItem from="1552698567194" duration="7767000" />
+      <workItem from="1552725861412" duration="47000" />
+      <workItem from="1553393869107" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 38m 13s.xml">
-      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 10m 46s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_solutionTestCase - 2019.03.12 at 21h 41m 10s.xml">
-      <configuration name="SolutionTest.solutionTestCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 11m 40s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 37m 05s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 12m 23s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 37m 25s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 12m 34s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 37m 55s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 13m 53s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 40m 34s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 14m 59s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 41m 25s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 15m 07s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 41m 45s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 16m 44s.xml">
+      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 44m 09s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2019.03.24 at 11h 25m 29s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testCase - 2019.03.14 at 18h 45m 13s.xml">
-      <configuration name="SolutionTest.testCase" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2019.03.24 at 11h 25m 58s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19781000" />
+    <option name="totallyTimeSpent" value="29459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,16 +488,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.25771812" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12885906" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2851064" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2851064" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3219858" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.25531915" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40213522" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
@@ -543,6 +573,12 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -580,13 +616,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/카카오무지의먹방라이브.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/프린터/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/완주못한선수/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -652,12 +681,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="513">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/송수신탑/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="37" selection-start-column="37" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/프린터/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/주식가격/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -699,39 +771,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="212">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/송수신탑/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/주식가격/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="446">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
