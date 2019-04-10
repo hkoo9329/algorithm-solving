@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/원소정렬/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/중복확인/CharChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/중복확인/DuplicateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/중복확인/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/배열/중복확인/CharChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/배열/중복확인/PermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,9 +22,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/배열/중복확인/CharChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#234#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="461">
               <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -38,10 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,51 +78,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/배열/중복확인/CharChangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-6">
-                <caret line="16" lean-forward="true" selection-start-line="8" selection-end-line="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/배열/중복확인/PermutationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -190,14 +189,20 @@
         <option value="$PROJECT_DIR$/src/main/java/원소정렬/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/원소정렬/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/배열/중복확인/DuplicateCheck.java" />
+        <option value="$PROJECT_DIR$/src/test/java/배열/중복확인/PermutationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/배열/중복확인/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/배열/중복확인/CharChangeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/배열/중복확인/CharChange.java" />
+        <option value="$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="825" />
-    <option name="y" value="207" />
-    <option name="width" value="979" />
-    <option name="height" value="1063" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,7 +211,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,23 +242,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="다리를지나는트럭" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="원소정렬" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="프린터" type="462c0819:PsiDirectoryNode" />
+              <item name="연속된_숫자_제거" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -275,22 +263,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="다리를지나는트럭" type="462c0819:PsiDirectoryNode" />
+              <item name="연속된_숫자_제거" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;WelcomeScreen.Settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553395076255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554888116681" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -298,11 +288,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="연속된_숫자_제거" />
+      <recent name="배열.중복확인" />
       <recent name="원소정렬" />
       <recent name="주식가격" />
       <recent name="다리를지나는트럭" />
-      <recent name="카카오오픈채팅방" />
-      <recent name="타일링" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -320,7 +310,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest">
+  <component name="RunManager" selected="JUnit.SolutionTest.테스트_케이스">
+    <configuration name="CharChangeTest.문자열_공백을_변경_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.중복확인.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="배열.중복확인" />
+      <option name="MAIN_CLASS_NAME" value="배열.중복확인.CharChangeTest" />
+      <option name="METHOD_NAME" value="문자열_공백을_변경_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationTest.두개의_문자열_순열관계_확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.중복확인.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="배열.중복확인" />
+      <option name="MAIN_CLASS_NAME" value="배열.중복확인.PermutationTest" />
+      <option name="METHOD_NAME" value="두개의_문자열_순열관계_확인" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
@@ -336,17 +358,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.Soull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.테스트_케이스" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="다리를지나는트럭.*" />
+          <option name="PATTERN" value="연속된_숫자_제거.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
-      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
-      <option name="METHOD_NAME" value="Soull" />
+      <option name="PACKAGE_NAME" value="연속된_숫자_제거" />
+      <option name="MAIN_CLASS_NAME" value="연속된_숫자_제거.SolutionTest" />
+      <option name="METHOD_NAME" value="테스트_케이스" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -368,52 +390,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.solutionTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="다리를지나는트럭.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="다리를지나는트럭" />
-      <option name="MAIN_CLASS_NAME" value="다리를지나는트럭.SolutionTest" />
-      <option name="METHOD_NAME" value="solutionTestCase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="주식가격.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="주식가격" />
-      <option name="MAIN_CLASS_NAME" value="주식가격.SolutionTest" />
-      <option name="METHOD_NAME" value="testCase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
-      <item itemvalue="JUnit.SolutionTest.testCase" />
-      <item itemvalue="JUnit.SolutionTest.Soull" />
       <item itemvalue="JUnit.SolutionTest.iiss" />
       <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.PermutationTest.두개의_문자열_순열관계_확인" />
+      <item itemvalue="JUnit.CharChangeTest.문자열_공백을_변경_테스트" />
+      <item itemvalue="JUnit.SolutionTest.테스트_케이스" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.테스트_케이스" />
+        <item itemvalue="JUnit.CharChangeTest.문자열_공백을_변경_테스트" />
+        <item itemvalue="JUnit.PermutationTest.두개의_문자열_순열관계_확인" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SolutionTest.iiss" />
-        <item itemvalue="JUnit.SolutionTest.Soull" />
-        <item itemvalue="JUnit.SolutionTest.solutionTestCase" />
-        <item itemvalue="JUnit.SolutionTest.testCase" />
       </list>
     </recent_temporary>
   </component>
@@ -439,44 +429,48 @@
       <workItem from="1552629311838" duration="914000" />
       <workItem from="1552698567194" duration="7767000" />
       <workItem from="1552725861412" duration="47000" />
-      <workItem from="1553393869107" duration="1218000" />
+      <workItem from="1553393869107" duration="1259000" />
+      <workItem from="1553402914133" duration="4000" />
+      <workItem from="1553408123511" duration="27000" />
+      <workItem from="1553581481414" duration="3749000" />
+      <workItem from="1554886444042" duration="1668000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 10m 46s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 11m 40s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 12m 23s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 12m 34s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 13m 53s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 14m 59s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 15m 07s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_iiss - 2019.03.16 at 12h 16m 44s.xml">
-      <configuration name="SolutionTest.iiss" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionTest - 2019.03.24 at 11h 25m 29s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SolutionTest - 2019.03.24 at 11h 25m 58s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PermutationTest_두개의_문자열_순열관계_확인 - 2019.03.26 at 16h 04m 23s.xml">
+      <configuration name="PermutationTest.두개의_문자열_순열관계_확인" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PermutationTest_두개의_문자열_순열관계_확인 - 2019.03.26 at 16h 05m 17s.xml">
+      <configuration name="PermutationTest.두개의_문자열_순열관계_확인" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharChangeTest_문자열_공백을_변경_테스트 - 2019.03.26 at 16h 15m 51s.xml">
+      <configuration name="CharChangeTest.문자열_공백을_변경_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharChangeTest_문자열_공백을_변경_테스트 - 2019.03.26 at 16h 25m 52s.xml">
+      <configuration name="CharChangeTest.문자열_공백을_변경_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 12m 40s.xml">
+      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 13m 38s.xml">
+      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 14m 10s.xml">
+      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 20m 04s.xml">
+      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30182000" />
+    <option name="totallyTimeSpent" value="35671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,15 +490,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12885906" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1375839" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2851064" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2851064" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.25531915" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.40213522" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -722,6 +716,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" selection-start-line="8" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/배열/중복확인/DuplicateCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/배열/중복확인/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/배열/중복확인/CharChangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/배열/중복확인/PermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/카카오오픈채팅방/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -759,9 +834,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/배열/중복확인/CharChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/다리를지나는트럭/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="461">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -779,55 +861,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/원소정렬/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#234#243#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-6">
-            <caret line="16" lean-forward="true" selection-start-line="8" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/다리를지나는트럭/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
