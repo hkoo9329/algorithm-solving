@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/같은_숫자는_싫어/ContinueNumRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/같은_숫자는_싫어/ContinueNumRemoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/더맵게/ScovilleScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,13 +14,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/같은_숫자는_싫어/ContinueNumRemover.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/더맵게/ScovilleScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="213">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#186#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/더맵게/ScovilleScoreTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/같은_숫자는_싫어/ContinueNumRemoverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            <state relative-caret-position="280">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,11 +188,20 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/같은_숫자는_싫어/ContinueNumRemoverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/같은_숫자는_싫어/ContinueNumRemover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/더맵게/ScovilleScore.java" />
+        <option value="$PROJECT_DIR$/src/test/java/더맵게/ScovilleScoreTest.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -184,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -217,7 +243,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="같은_숫자는_싫어" type="462c0819:PsiDirectoryNode" />
+              <item name="더맵게" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -238,19 +264,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="같은_숫자는_싫어" type="462c0819:PsiDirectoryNode" />
+              <item name="더맵게" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;WelcomeScreen.Settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555570350968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555570691280" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -262,11 +290,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="더맵게" />
       <recent name="같은_숫자는_싫어" />
       <recent name="연속된_숫자_제거" />
       <recent name="배열.중복확인" />
       <recent name="원소정렬" />
-      <recent name="주식가격" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -284,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContinueNumRemoverTest">
+  <component name="RunManager" selected="JUnit.ScovilleScoreTest.testCase">
     <configuration name="CharChangeTest.문자열_공백을_변경_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
@@ -316,33 +344,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationTest.두개의_문자열_순열관계_확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScovilleScoreTest.queue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="배열.중복확인.*" />
+          <option name="PATTERN" value="더맵게.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="배열.중복확인" />
-      <option name="MAIN_CLASS_NAME" value="배열.중복확인.PermutationTest" />
-      <option name="METHOD_NAME" value="두개의_문자열_순열관계_확인" />
+      <option name="PACKAGE_NAME" value="더맵게" />
+      <option name="MAIN_CLASS_NAME" value="더맵게.ScovilleScoreTest" />
+      <option name="METHOD_NAME" value="queue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScovilleScoreTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="원소정렬.*" />
+          <option name="PATTERN" value="더맵게.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="원소정렬" />
-      <option name="MAIN_CLASS_NAME" value="원소정렬.SolutionTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="더맵게" />
+      <option name="MAIN_CLASS_NAME" value="더맵게.ScovilleScoreTest" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -364,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionTest" />
-      <item itemvalue="JUnit.PermutationTest.두개의_문자열_순열관계_확인" />
       <item itemvalue="JUnit.CharChangeTest.문자열_공백을_변경_테스트" />
       <item itemvalue="JUnit.SolutionTest.테스트_케이스" />
       <item itemvalue="JUnit.ContinueNumRemoverTest" />
+      <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
+      <item itemvalue="JUnit.ScovilleScoreTest.queue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
+        <item itemvalue="JUnit.ScovilleScoreTest.queue" />
         <item itemvalue="JUnit.ContinueNumRemoverTest" />
         <item itemvalue="JUnit.SolutionTest.테스트_케이스" />
         <item itemvalue="JUnit.CharChangeTest.문자열_공백을_변경_테스트" />
-        <item itemvalue="JUnit.PermutationTest.두개의_문자열_순열관계_확인" />
-        <item itemvalue="JUnit.SolutionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -408,29 +437,12 @@
       <workItem from="1553581481414" duration="3749000" />
       <workItem from="1554886444042" duration="1800000" />
       <workItem from="1555494470731" duration="779000" />
-      <workItem from="1555569606426" duration="791000" />
+      <workItem from="1555569606426" duration="1674000" />
+      <workItem from="1557135214628" duration="2863000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 12m 40s.xml">
-      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 13m 38s.xml">
-      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 14m 10s.xml">
-      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_테스트_케이스 - 2019.04.10 at 18h 20m 04s.xml">
-      <configuration name="SolutionTest.테스트_케이스" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContinueNumRemoverTest - 2019.04.17 at 18h 59m 17s.xml">
-      <configuration name="ContinueNumRemoverTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContinueNumRemoverTest - 2019.04.17 at 18h 59m 55s.xml">
-      <configuration name="ContinueNumRemoverTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ContinueNumRemoverTest - 2019.04.18 at 15h 47m 31s.xml">
       <configuration name="ContinueNumRemoverTest" configurationId="JUnit" />
     </history-entry>
@@ -443,9 +455,27 @@
     <history-entry file="ContinueNumRemoverTest - 2019.04.18 at 15h 52m 21s.xml">
       <configuration name="ContinueNumRemoverTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 18h 48m 58s.xml">
+      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 18h 53m 14s.xml">
+      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 18h 54m 01s.xml">
+      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScovilleScoreTest_queue - 2019.05.06 at 19h 13m 37s.xml">
+      <configuration name="ScovilleScoreTest.queue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 19h 19m 47s.xml">
+      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 19h 20m 31s.xml">
+      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37373000" />
+    <option name="totallyTimeSpent" value="41119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,22 +488,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14161074" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14295302" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2851064" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.28837878" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2539007" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2496454" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.40141845" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -498,19 +527,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25771812" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29680997" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2851064" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.28837878" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3219858" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39858156" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.25251076" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40141845" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -783,6 +812,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/연속된_숫자_제거/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/연속된_숫자_제거/SolutionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/같은_숫자는_싫어/ContinueNumRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
@@ -846,18 +882,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/같은_숫자는_싫어/ContinueNumRemoverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        <state relative-caret-position="280">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/같은_숫자는_싫어/ContinueNumRemover.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/더맵게/ScovilleScoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="308">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/더맵게/ScovilleScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#186#195#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
