@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/기능개발.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/모의고사/Solution.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,32 +20,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="76">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#686#695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5244">
-              <caret line="330" selection-start-line="330" selection-end-line="330" />
+            <state relative-caret-position="304">
+              <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,8 +122,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -180,6 +177,9 @@
         <option value="$PROJECT_DIR$/src/main/java/타겟넘버/TargetNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/타겟넘버/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/기능개발.java" />
+        <option value="$PROJECT_DIR$/src/test/java/모의고사/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java" />
+        <option value="$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java" />
       </list>
     </option>
   </component>
@@ -191,9 +191,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="947" />
+    <option name="y" value="1" />
     <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +232,14 @@
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="수포자모의고사" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,13 +255,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="타일링" type="462c0819:PsiDirectoryNode" />
+              <item name="수포자모의고사" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,11 +281,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="수포자모의고사" />
       <recent name="더맵게" />
       <recent name="같은_숫자는_싫어" />
       <recent name="연속된_숫자_제거" />
       <recent name="배열.중복확인" />
-      <recent name="원소정렬" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -294,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.기능개발.기능개발_테스트">
+  <component name="RunManager" selected="JUnit.SupojaTest.테스트_케이스">
     <configuration name="TargetNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="타겟넘버.TargetNumbers" />
       <module name="codingTest" />
@@ -304,37 +313,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContinueNumRemoverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="같은_숫자는_싫어.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="같은_숫자는_싫어" />
-      <option name="MAIN_CLASS_NAME" value="같은_숫자는_싫어.ContinueNumRemoverTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScovilleScoreTest.queue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="더맵게.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="더맵게" />
-      <option name="MAIN_CLASS_NAME" value="더맵게.ScovilleScoreTest" />
-      <option name="METHOD_NAME" value="queue" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -355,6 +333,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution.수포자의_모의고사" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="모의고사.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="모의고사" />
+      <option name="MAIN_CLASS_NAME" value="모의고사.Solution" />
+      <option name="METHOD_NAME" value="수포자의_모의고사" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupojaTest.테스트_케이스" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="수포자모의고사.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="수포자모의고사" />
+      <option name="MAIN_CLASS_NAME" value="수포자모의고사.SupojaTest" />
+      <option name="METHOD_NAME" value="테스트_케이스" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="기능개발.기능개발_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -367,18 +377,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.TargetNumbers" />
-      <item itemvalue="JUnit.ContinueNumRemoverTest" />
       <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
-      <item itemvalue="JUnit.ScovilleScoreTest.queue" />
       <item itemvalue="JUnit.기능개발.기능개발_테스트" />
+      <item itemvalue="JUnit.Solution.수포자의_모의고사" />
+      <item itemvalue="JUnit.SupojaTest.테스트_케이스" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SupojaTest.테스트_케이스" />
+        <item itemvalue="JUnit.Solution.수포자의_모의고사" />
         <item itemvalue="JUnit.기능개발.기능개발_테스트" />
         <item itemvalue="Application.TargetNumbers" />
         <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
-        <item itemvalue="JUnit.ScovilleScoreTest.queue" />
-        <item itemvalue="JUnit.ContinueNumRemoverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -419,43 +429,46 @@
       <workItem from="1557819097732" duration="3585000" />
       <workItem from="1557900375687" duration="51000" />
       <workItem from="1557900606577" duration="239000" />
+      <workItem from="1558801744288" duration="889000" />
+      <workItem from="1558834734568" duration="71000" />
+      <workItem from="1558863486112" duration="2364000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 19h 19m 47s.xml">
-      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 46m 03s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScovilleScoreTest_testCase - 2019.05.06 at 19h 20m 31s.xml">
-      <configuration name="ScovilleScoreTest.testCase" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 51m 23s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 31m 03s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 51m 50s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 31m 47s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 55m 28s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 34m 07s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 55m 46s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 39m 20s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 57m 50s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 39m 22s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 58m 33s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 42m 24s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 19h 03m 20s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 42m 29s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 19h 03m 45s.xml">
+      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="기능개발_기능개발_테스트 - 2019.05.14 at 17h 42m 45s.xml">
-      <configuration name="기능개발.기능개발_테스트" configurationId="JUnit" />
+    <history-entry file="SupojaTest_테스트_케이스 - 2019.05.26 at 19h 16m 17s.xml">
+      <configuration name="SupojaTest.테스트_케이스" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47375000" />
+    <option name="totallyTimeSpent" value="50699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,15 +488,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.059731543" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18993288" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3457676" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.348637" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.31914893" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3148936" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39574468" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -850,21 +863,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#386#395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -930,6 +942,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/모의고사/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#686#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
