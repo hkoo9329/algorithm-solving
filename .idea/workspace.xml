@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/전화번호_목록/PrefixStringChanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/단어변환/WordsChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/전화번호_목록/PrefixStringChangerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/모의고사/Solution.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,25 +21,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/단어변환/WordsChangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#686#695#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/전화번호_목록/PrefixStringChanger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/전화번호_목록/PrefixStringChangerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+            <state relative-caret-position="244">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,6 +193,10 @@
         <option value="$PROJECT_DIR$/src/test/java/모의고사/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java" />
         <option value="$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/단어변환/WordsChange.java" />
+        <option value="$PROJECT_DIR$/src/test/java/단어변환/WordsChangeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/전화번호_목록/PrefixStringChanger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/전화번호_목록/PrefixStringChangerTest.java" />
       </list>
     </option>
   </component>
@@ -190,11 +207,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="947" />
-    <option name="y" value="1" />
-    <option name="width" value="979" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -203,6 +219,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +251,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="수포자모의고사" type="462c0819:PsiDirectoryNode" />
+              <item name="전화번호_목록" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -255,13 +272,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="수포자모의고사" type="462c0819:PsiDirectoryNode" />
+              <item name="단어변환" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,11 +297,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="전화번호_목록" />
       <recent name="수포자모의고사" />
       <recent name="더맵게" />
       <recent name="같은_숫자는_싫어" />
       <recent name="연속된_숫자_제거" />
-      <recent name="배열.중복확인" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -303,47 +319,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SupojaTest.테스트_케이스">
-    <configuration name="TargetNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="타겟넘버.TargetNumbers" />
+  <component name="RunManager" selected="JUnit.PrefixStringChangerTest">
+    <configuration name="PrefixStringChangerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="타겟넘버.*" />
+          <option name="PATTERN" value="전화번호_목록.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="전화번호_목록" />
+      <option name="MAIN_CLASS_NAME" value="전화번호_목록.PrefixStringChangerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScovilleScoreTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrefixStringChangerTest.케이스_테스트_v1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="더맵게.*" />
+          <option name="PATTERN" value="전화번호_목록.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="더맵게" />
-      <option name="MAIN_CLASS_NAME" value="더맵게.ScovilleScoreTest" />
-      <option name="METHOD_NAME" value="testCase" />
+      <option name="PACKAGE_NAME" value="전화번호_목록" />
+      <option name="MAIN_CLASS_NAME" value="전화번호_목록.PrefixStringChangerTest" />
+      <option name="METHOD_NAME" value="케이스_테스트_v1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.수포자의_모의고사" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrefixStringChangerTest.케이스_테스트_v2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="모의고사.*" />
+          <option name="PATTERN" value="전화번호_목록.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="모의고사" />
-      <option name="MAIN_CLASS_NAME" value="모의고사.Solution" />
-      <option name="METHOD_NAME" value="수포자의_모의고사" />
+      <option name="PACKAGE_NAME" value="전화번호_목록" />
+      <option name="MAIN_CLASS_NAME" value="전화번호_목록.PrefixStringChangerTest" />
+      <option name="METHOD_NAME" value="케이스_테스트_v2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -365,30 +383,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발.기능개발_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordsChangeTest.단어변환" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="기능개발" />
-      <option name="METHOD_NAME" value="기능개발_테스트" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="단어변환.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="단어변환" />
+      <option name="MAIN_CLASS_NAME" value="단어변환.WordsChangeTest" />
+      <option name="METHOD_NAME" value="단어변환" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TargetNumbers" />
-      <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
-      <item itemvalue="JUnit.기능개발.기능개발_테스트" />
-      <item itemvalue="JUnit.Solution.수포자의_모의고사" />
       <item itemvalue="JUnit.SupojaTest.테스트_케이스" />
+      <item itemvalue="JUnit.WordsChangeTest.단어변환" />
+      <item itemvalue="JUnit.PrefixStringChangerTest" />
+      <item itemvalue="JUnit.PrefixStringChangerTest.케이스_테스트_v2" />
+      <item itemvalue="JUnit.PrefixStringChangerTest.케이스_테스트_v1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrefixStringChangerTest" />
+        <item itemvalue="JUnit.PrefixStringChangerTest.케이스_테스트_v1" />
+        <item itemvalue="JUnit.PrefixStringChangerTest.케이스_테스트_v2" />
+        <item itemvalue="JUnit.WordsChangeTest.단어변환" />
         <item itemvalue="JUnit.SupojaTest.테스트_케이스" />
-        <item itemvalue="JUnit.Solution.수포자의_모의고사" />
-        <item itemvalue="JUnit.기능개발.기능개발_테스트" />
-        <item itemvalue="Application.TargetNumbers" />
-        <item itemvalue="JUnit.ScovilleScoreTest.testCase" />
       </list>
     </recent_temporary>
   </component>
@@ -431,44 +455,48 @@
       <workItem from="1557900606577" duration="239000" />
       <workItem from="1558801744288" duration="889000" />
       <workItem from="1558834734568" duration="71000" />
-      <workItem from="1558863486112" duration="2364000" />
+      <workItem from="1558863486112" duration="2399000" />
+      <workItem from="1558933072800" duration="1247000" />
+      <workItem from="1558941103745" duration="1274000" />
+      <workItem from="1559010035743" duration="99000" />
+      <workItem from="1559294274149" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 46m 03s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="WordsChangeTest_단어변환 - 2019.05.27 at 14h 03m 40s.xml">
+      <configuration name="WordsChangeTest.단어변환" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 51m 23s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="WordsChangeTest_단어변환 - 2019.05.27 at 14h 04m 00s.xml">
+      <configuration name="WordsChangeTest.단어변환" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 51m 50s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="WordsChangeTest_단어변환 - 2019.05.27 at 14h 04m 16s.xml">
+      <configuration name="WordsChangeTest.단어변환" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 55m 28s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest - 2019.05.31 at 18h 33m 05s.xml">
+      <configuration name="PrefixStringChangerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 55m 46s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest - 2019.05.31 at 18h 34m 01s.xml">
+      <configuration name="PrefixStringChangerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 57m 50s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest - 2019.05.31 at 18h 34m 09s.xml">
+      <configuration name="PrefixStringChangerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 18h 58m 33s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest - 2019.05.31 at 18h 35m 00s.xml">
+      <configuration name="PrefixStringChangerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 19h 03m 20s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest_케이스_테스트_v2 - 2019.05.31 at 18h 35m 06s.xml">
+      <configuration name="PrefixStringChangerTest.케이스_테스트_v2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_수포자의_모의고사 - 2019.05.26 at 19h 03m 45s.xml">
-      <configuration name="Solution.수포자의_모의고사" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest_케이스_테스트_v1 - 2019.05.31 at 18h 35m 11s.xml">
+      <configuration name="PrefixStringChangerTest.케이스_테스트_v1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SupojaTest_테스트_케이스 - 2019.05.26 at 19h 16m 17s.xml">
-      <configuration name="SupojaTest.테스트_케이스" configurationId="JUnit" />
+    <history-entry file="PrefixStringChangerTest - 2019.05.31 at 18h 35m 15s.xml">
+      <configuration name="PrefixStringChangerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50699000" />
+    <option name="totallyTimeSpent" value="54421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,7 +508,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -488,15 +516,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18993288" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.29639888" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32386363" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.348637" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3485064" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3148936" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.31375358" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39574468" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -887,6 +915,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/모의고사/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
@@ -945,34 +993,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/모의고사/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/단어변환/WordsChangeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#832#841#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/수포자모의고사/Supoja.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/전화번호_목록/PrefixStringChanger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <element signature="e#686#695#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/수포자모의고사/SupojaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/전화번호_목록/PrefixStringChangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        <state relative-caret-position="244">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
           </folding>
         </state>
       </provider>
