@@ -1,3 +1,4 @@
+import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
 import java.util.LinkedList;
@@ -6,7 +7,41 @@ import java.util.Queue;
 
 import static org.junit.Assert.*;
 
+@Slf4j
 public class 기능개발 {
+
+    @Test
+    public void startsWith테스트(){
+        String skill = "CBD";
+        String test1 = "CB";
+        String test2 = "CBD";
+
+        assertTrue(skill.startsWith(test1));
+        assertTrue(skill.startsWith(test2));
+    }
+
+
+    @Test
+    public void 테스트(){
+        int answer = 0;
+        String skill = "CBD";
+        String[] skill_trees = {"BACDE", "CBADF", "AECB", "BDA"};
+
+        for (int i=0;i<skill_trees.length;i++){
+            String temp = "";
+            for (int j=0;j<skill_trees[i].length();j++){
+                if (skill.contains(String.valueOf(skill_trees[i].charAt(j)))) {
+                    temp +=String.valueOf(skill_trees[i].charAt(j));
+                }
+            }
+            if (skill.startsWith(temp)){
+                answer++;
+            }
+        }
+        log.info(answer+"");
+
+    }
+
 
 
     @Test
