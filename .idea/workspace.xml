@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34c87f0-fb38-40b7-be8e-2f320186af20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/브라이언의_고민/StringDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/스킬트리/SkillTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/브라이언의_고민/StringDecoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/쇠막대기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/쇠막대기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/쇠막대기/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/기능개발.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,57 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/더맵게/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="44" selection-start-column="44" selection-end-column="44" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_2016년_요일계산/WeekNameCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/브라이언의_고민/StringDecoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1448#1449#0" expanded="true" />
-                <element signature="e#1494#1495#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/브라이언의_고민/StringDecoderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" />
+            <state relative-caret-position="399">
+              <caret line="28" selection-start-line="27" selection-start-column="8" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,20 +36,68 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/스킬트리/SkillTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/스킬트리/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="56" selection-start-column="56" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/쇠막대기/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding>
+                <element signature="e#171#179#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/쇠막대기/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="49" selection-start-column="49" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/쇠막대기/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            <state relative-caret-position="34">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="11514">
               <caret line="657" selection-start-line="657" selection-end-line="657" />
             </state>
           </provider>
@@ -155,10 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/프린터/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/완주못한선수/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/완주못한선수/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/타일링/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/타일링/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/카카오오픈채팅방/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/카카오오픈채팅방/Solution.java" />
@@ -206,6 +201,10 @@
         <option value="$PROJECT_DIR$/src/test/java/기능개발.java" />
         <option value="$PROJECT_DIR$/src/main/java/스킬트리/SkillTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/스킬트리/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/쇠막대기/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/쇠막대기/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/쇠막대기/README.md" />
       </list>
     </option>
   </component>
@@ -227,8 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,7 +257,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="스킬트리" type="462c0819:PsiDirectoryNode" />
+              <item name="쇠막대기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -295,6 +292,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,11 +316,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="쇠막대기" />
       <recent name="스킬트리" />
       <recent name="브라이언의_고민" />
       <recent name="_2016년_요일계산" />
       <recent name="전화번호_목록" />
-      <recent name="수포자모의고사" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -339,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SkillTreeTest">
+  <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration name="SkillTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
@@ -355,18 +354,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDecoderTest.케이스_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="브라이언의_고민.*" />
+          <option name="PATTERN" value="쇠막대기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="브라이언의_고민" />
-      <option name="MAIN_CLASS_NAME" value="브라이언의_고민.StringDecoderTest" />
-      <option name="METHOD_NAME" value="케이스_테스트" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="쇠막대기" />
+      <option name="MAIN_CLASS_NAME" value="쇠막대기.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -408,19 +406,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringDecoderTest.케이스_테스트" />
       <item itemvalue="JUnit.StringDecoderTest.큐_스트링_테스트" />
       <item itemvalue="JUnit.기능개발.테스트" />
       <item itemvalue="JUnit.기능개발.startsWith테스트" />
       <item itemvalue="JUnit.SkillTreeTest" />
+      <item itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SkillTreeTest" />
         <item itemvalue="JUnit.기능개발.테스트" />
         <item itemvalue="JUnit.기능개발.startsWith테스트" />
         <item itemvalue="JUnit.StringDecoderTest.큐_스트링_테스트" />
-        <item itemvalue="JUnit.StringDecoderTest.케이스_테스트" />
       </list>
     </recent_temporary>
   </component>
@@ -476,23 +474,12 @@
       <workItem from="1559526404469" duration="57000" />
       <workItem from="1559614182880" duration="597000" />
       <workItem from="1559621820699" duration="218000" />
-      <workItem from="1559645121232" duration="2560000" />
+      <workItem from="1559645121232" duration="3262000" />
+      <workItem from="1559712762067" duration="1434000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringDecoderTest_케이스_테스트 - 2019.06.01 at 17h 29m 52s.xml">
-      <configuration name="StringDecoderTest.케이스_테스트" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringDecoderTest_케이스_테스트 - 2019.06.01 at 17h 30m 39s.xml">
-      <configuration name="StringDecoderTest.케이스_테스트" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringDecoderTest_큐_스트링_테스트 - 2019.06.01 at 17h 55m 52s.xml">
-      <configuration name="StringDecoderTest.큐_스트링_테스트" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringDecoderTest_큐_스트링_테스트 - 2019.06.01 at 17h 57m 09s.xml">
-      <configuration name="StringDecoderTest.큐_스트링_테스트" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="기능개발_테스트 - 2019.06.02 at 21h 44m 20s.xml">
       <configuration name="기능개발.테스트" configurationId="JUnit" />
     </history-entry>
@@ -511,9 +498,21 @@
     <history-entry file="기능개발_테스트 - 2019.06.04 at 20h 09m 17s.xml">
       <configuration name="기능개발.테스트" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SkillTreeTest - 2019.06.04 at 20h 32m 35s.xml">
+      <configuration name="SkillTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.06.05 at 14h 48m 47s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.06.05 at 14h 51m 34s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.06.05 at 14h 51m 46s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67694000" />
+    <option name="totallyTimeSpent" value="69830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,16 +532,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22751679" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23087248" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32281205" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.34468085" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.348637" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.30780143" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39574468" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3035461" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39454806" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
@@ -642,6 +641,12 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/쇠막대기/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -650,42 +655,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/주식가격/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="37" selection-start-column="37" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/프린터/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/주식가격/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/원소정렬/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1042,6 +1011,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" selection-start-line="27" selection-start-column="8" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/스킬트리/SkillTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11514">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/완주못한선수/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1059,39 +1062,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="657" selection-start-line="657" selection-end-line="657" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/스킬트리/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="56" selection-start-column="56" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/기능개발.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/쇠막대기/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" />
+        <state relative-caret-position="34">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/스킬트리/SkillTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/쇠막대기/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="53">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="e#171#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/스킬트리/SkillTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/main/java/쇠막대기/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="49" selection-start-column="49" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
