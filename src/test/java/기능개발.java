@@ -1,83 +1,135 @@
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 
 import static org.junit.Assert.*;
 
 @Slf4j
 public class 기능개발 {
 
-    @Test
-    public void startsWith테스트(){
-        String skill = "CBD";
-        String test1 = "CB";
-        String test2 = "CBD";
 
-        assertTrue(skill.startsWith(test1));
-        assertTrue(skill.startsWith(test2));
+    @Test
+    public void 사각형_좌표() {
+//        int [][] v ; //테스트 케이스
+//        int[] answer = new int[2];
+//        for(int i=0;i<answer.length;i++){
+//            if(v[0][i]==v[1][i]){
+//                answer[i] = v[2][i];
+//            }else if(v[0][i]==v[2][i]){
+//                answer[i] = v[1][i];
+//            }else if(v[1][i]==v[2][i]){
+//                answer[i] = v[0][i];
+//            }
+//        }
+
+        //return answer;
+    }
+
+    @Test
+    public void 스트링_태스트() {
+        String s = "ASDSDS";
+        String answer = "";
+        s = s.toLowerCase();
+        int[] count = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            int index = s.charAt(i) - 97;
+            count[index]++;
+        }
+        int max = 0;
+        for (int i = 0; i < count.length; i++) {
+            if (count[i] > max) {
+                max = count[i];
+            }
+        }
+        for (int i = 0; i < count.length; i++) {
+            if (count[i] == max) {
+                answer += String.valueOf((char) (i + 97));
+            }
+        }
+
+        System.out.println(answer);
+    }
+
+    @Test
+    public void time() {
+        String end = "AM 00:00:00".replace(":", " ");
+        String start = "AM 00:00:00".replace(":", " ");
+        String answer = "";
+        String[] starts = start.split(" ");
+        String[] ends = end.split(" ");
+        int a = timesum(starts);
+        int b = timesum(ends);
+        int time = Math.abs(b - a);
+        System.out.println(timetoString(time));
+    }
+
+    public int timesum(String[] time) {
+        int sum = 0;
+        boolean isPM = false;
+        int h = 0, m = 0, s = 0;
+        if (time[0].equals("PM")) {
+            isPM = true;
+        }
+
+        h = Integer.valueOf(time[1]);
+        m = Integer.valueOf(time[2]);
+        s = Integer.valueOf(time[3]);
+        if (isPM) {
+            h += 12;
+        }
+
+        sum += (h * 3600) + (m * 60) + s;
+
+
+        return sum;
+    }
+
+    public String timetoString(int time) {
+        int t = time;
+        int s = t % 60;
+        t /= 60;
+        int m = t % 60;
+        t /= 60;
+        int h = t;
+        return String.format("%02d", h) + ":" + String.format("%02d", m) + ":" + String.format("%02d", s);
     }
 
 
     @Test
-    public void 테스트(){
-        int answer = 0;
-        String skill = "CBD";
-        String[] skill_trees = {"BACDE", "CBADF", "AECB", "BDA"};
-
-        for (int i=0;i<skill_trees.length;i++){
-            String temp = "";
-            for (int j=0;j<skill_trees[i].length();j++){
-                if (skill.contains(String.valueOf(skill_trees[i].charAt(j)))) {
-                    temp +=String.valueOf(skill_trees[i].charAt(j));
+    public void 테스트코드() {
+        int[] bricks = {0, 2, 0, 1, 3, 1, 2, 0, 1, 0, 2, 0};
+        int temp = bricks[0];
+        int answer =0;
+        int water = 0;
+        Loop:
+        for (int i = 0;i<bricks.length;i++){
+            if (bricks[i]>=temp){
+                temp = bricks[i];
+                while (maxCheck(temp,bricks,i)){
+                    temp--;
+                    if (temp<=0){
+                        break Loop;
+                    }
                 }
-            }
-            if (skill.startsWith(temp)){
-                answer++;
+                answer+=water;
+                water = 0;
+            }else if(bricks[i]<temp){
+                water+=temp-bricks[i];
             }
         }
-        log.info(answer+"");
-
+        System.out.println(answer);
     }
-
-
-
-    @Test
-    public void 기능개발_테스트() {
-        int[] progresses = {93, 30, 55};
-        int[] speeds = {1, 30, 5};
-        int[] answer;
-        List<Integer> answerList = new LinkedList<>();
-        Queue<Integer> progressQueue = new LinkedList<Integer>();
-        Queue<Integer> speedsQueue = new LinkedList<>();
-        for (int i = 0; i < progresses.length; i++) {
-            progressQueue.add(progresses[i]);
-            speedsQueue.add(speeds[i]);
-        }
-        while (!progressQueue.isEmpty()) {
-            int count = 0;
-            while (progressQueue.peek() >= 100) {
-                progressQueue.poll();
-                speedsQueue.poll();
-                count++;
-            }
-            if (count != 0) {
-                answerList.add(count);
+    public boolean maxCheck(int value, int[] bricks,int index){
+        for (int i=0;i<bricks.length;i++){
+            if (i == index){
                 continue;
             }
-
-            for (int speed : speedsQueue) {
-                progressQueue.add(progressQueue.poll() + speed);
+            if (bricks[i]>=value){
+                return false;
             }
         }
-        answer = new int[answerList.size()];
-        for (int i = 0; i < answerList.size(); i++) {
-            answer[i] = answerList.get(i);
-            System.out.println(answer[i]);
-        }
 
-
+        return true;
     }
+
 }
